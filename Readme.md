@@ -1,1 +1,1 @@
-É uma atividade avaliativa onde foi pedidio para resolver um problema de um Sistema de Estoque de Mercado utilizado a linguagem c
+É uma atividade que foi realizada para resolver um Sistema de Estoque de Mercado.
