@@ -20,7 +20,6 @@ void listaProdutos(){
 
 void listaProdutos();
 
-//Nome: Matheus Conzatti de Souza Turma: Engenharia de Computação
 //Sistema de Estoque
 
 int main(){
