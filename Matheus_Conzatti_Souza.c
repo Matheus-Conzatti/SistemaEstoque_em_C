@@ -14,8 +14,6 @@ void listaProdutos(){
     printf("(8)      Bebida,       18.80\n");
     printf("(9)      Beleza,       20.30\n");
     printf("(10)     Eletronicos,  100.00\n");
-
-    return 0;
 }
 
 void listaProdutos();
